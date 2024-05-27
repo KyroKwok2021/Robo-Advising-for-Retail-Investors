@@ -1,7 +1,7 @@
 # Robo Advising for Retail Investors
 
 ## Overview
-This project delves into the trading strategy development and implementation of a robo-advising system crafted for retail investors, highlighting a growing trend in the intersection of technology and finance. It forcused on a **$${\color{#ffb703}mean reversion strategy}$$** by leveraging the correlation between **VIX** and **VIX Future** to predict the **SPX** market movement. To enhance accessibility and real-time interaction, the system is also integrated with a **Discord bot** to deliver daily simplfied trading signals directly to users.
+This project delves into the trading strategy development and implementation of a robo-advising system crafted for retail investors, highlighting a growing trend in the intersection of technology and finance. It forcused on a @@ mean reversion strategy in orange (and bold)@@ by leveraging the correlation between **VIX** and **VIX Future** to predict the **SPX** market movement. To enhance accessibility and real-time interaction, the system is also integrated with a **Discord bot** to deliver daily simplfied trading signals directly to users.
 
 ![image](https://github.com/KyroKwok2021/Robo-Advising-for-Retail-Investors/assets/96275232/bf2da102-f647-4823-99fe-3f027d6ebeda)
 
